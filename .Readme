@@ -1,0 +1,17 @@
+this is basic video uploader video upload by client client will see the status of
+video their video will pending , uploaded or rejected the video upload status will send to mail .id
+In this dir their is two folder 1. Backend and 2. frontend(video-upload)
+
+//  frontend(video-upload)
+1..   cd video-upload
+2..   npm install
+3..    npm start
+
+//   backend
+1.    cd backend
+2..   npm install
+3..   node index.js
+
+Note   ----  In sendEmail.js file put your own mail.id and password and also put client mailid
+      (to which you need to send)
+
